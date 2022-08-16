@@ -1,0 +1,12 @@
+com\springboot\controller\UserController.class
+com\springboot\model\Address.class
+com\springboot\dto\UserDto.class
+com\springboot\service\UserService.class
+com\springboot\repository\UserRepository.class
+com\springboot\controller\ValidationHandler.class
+com\springboot\model\UserTable.class
+com\springboot\config\SwaggerConfig.class
+com\springboot\repository\AddressRepository.class
+com\springboot\SpringbootValidationApplication.class
+com\springboot\security\WebSecurity.class
+com\springboot\dto\AddressDto.class

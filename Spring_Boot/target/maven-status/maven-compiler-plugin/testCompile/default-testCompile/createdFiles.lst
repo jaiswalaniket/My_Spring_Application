@@ -1,0 +1,4 @@
+com\springboot\controller\UserControllerTest.class
+com\springboot\repository\UserRepositoryTest.class
+com\springboot\SpringbootValidationApplicationTests.class
+com\springboot\service\UserServiceTest.class
